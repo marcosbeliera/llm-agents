@@ -1,0 +1,13 @@
+# Email to Clara
+
+Subject: Reminder about Meeting
+
+Hi Clara,
+
+I hope this message finds you well. I wanted to remind you about our upcoming meeting. Please let me know if you have any questions or if there's anything specific you would like to discuss.
+
+Looking forward to our meeting.
+
+Best regards,
+
+[Your Name]
